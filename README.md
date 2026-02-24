@@ -1,4 +1,6 @@
-# Hi there! I'm Park Jea Minh, but you can call me Jacky 👋
+# Hi there! 
+
+I'm Park Jea Minh, but you can call me Jacky 👋
 
 I’m a **Full-stack Developer** (and a proud student at **FPT University**) based in Vietnam. I enjoy bridging the gap between robust back-end logic and fluid, modern front-end experiences.
 
