@@ -10,7 +10,7 @@ I’m a **Full-stack Developer** based in Vietnam. I enjoy bridging the gap betw
 * **Performance:** Building scalable Web APIs and optimized UI components
 
 ### Some stuff I built:
-* **[Tên Project 1]** - A full-stack management system with .NET Core and React.
+* **[Tickify]** - A full-stack management system with .NET Core and React. https://github.com/daitb/Tickyfy
 * **FPT Course Manager** - (Ví dụ) A tool to help students track their syllabus and grades.
 * **Smooth Auth** - A custom JWT authentication flow with polished React transitions.
 * **SQL Schema Visualizer** - A small tool to map out database relationships visually.
