@@ -11,7 +11,7 @@ I’m a **Full-stack Developer** based in Vietnam. I enjoy bridging the gap betw
 
 ### Some stuff I built:
 * **FPT Course Manager** - (Ví dụ) A tool to help students track their syllabus and grades.
-* **[Tickify]** - A full-stack management system with .NET Core and React. https://github.com/daitb/Tickyfy
+* **[Tickify]** - A full-stack management system with .NET Core and React. 
 * **GrowWise** - A personal finance education app for kids with AI-powered goals, daily tasks, and a 3-jar saving system.
 * **SQL Schema Visualizer** - A small tool to map out database relationships visually.
 
