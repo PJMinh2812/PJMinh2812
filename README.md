@@ -16,7 +16,7 @@ I’m a **Full-stack Developer** based in Vietnam. I enjoy bridging the gap betw
 * **SQL Schema Visualizer** - A small tool to map out database relationships visually.
 
 ### Tech Stack:
-* **Backend:** .NET 8, C#, Entity Framework Core
+* **Backend:** .NET, C#, Entity Framework Core
 * **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion
 * **Database:** SQL Server, PostgreSQL
 * **Tools:** Docker, Git, Azure
